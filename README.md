@@ -60,4 +60,4 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
 
 -This EDA project is created purely for learning and practice purposes; hence, I’ve shared only the PDF versions of the Jupyter Notebook and PowerPoint to maintain originality and avoid direct copy-paste.
 
--⭐ This EDA project was completed as part of my data analytics training/Journey And the EDA Project At Future Vision Computer Institute,Surat.
+-⭐ This EDA project was completed as part of my data analytics training/Journey And the EDA Project Done At Future Vision Computer Institute,Surat.
