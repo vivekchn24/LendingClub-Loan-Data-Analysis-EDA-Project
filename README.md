@@ -8,8 +8,6 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
 
 -Data_Dictionary.xlsx File (Explaination And FullForms Of The Columns)
 
--loan_csv file (Actual Dataset For Analysis)
-
 -missing_info_vivek_chauhan.xlsx File (For Analyse The Missing Columns One By One)
 
 -LOAN_LENDING_CLUB_EDA_PROJECT_VIVEK_CHAUHAN (Jupyter Notebook Code Pdf File)
