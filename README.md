@@ -14,6 +14,8 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
 
 -LOAN_LENDING_CLUB_VIVEK_CHAUHAN (PowerPoint Presentation Slides Pdf File)
 
+-DATA CSV FOLDER CONTAINS ORIGINAL DATASET
+
 **-->> 📁 Dataset**
 
 - ""Source"": LendingClub public dataset (Downloaded from Kaggle / official source)
