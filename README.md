@@ -58,7 +58,7 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
    - Summarized key findings with visual charts
    - Business recommendations
 
-**Recommendations/Insights**
+** 📌 Recommendations/Insights**
 
 1. Risk-Based Interest Adjustment     
 Loans issued to customers with Grade B,C & D (especially sub-grades like B3, B5, C1, etc.) should be charged higher & medium interest rates or subjected to stricter terms, as these categories show a significantly higher default rate.
