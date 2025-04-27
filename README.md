@@ -58,6 +58,38 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
    - Summarized key findings with visual charts
    - Business recommendations
 
+**Recommendations/Insights**
+
+1. Risk-Based Interest Adjustment     
+Loans issued to customers with Grade B,C & D (especially sub-grades like B3, B5, C1, etc.) should be charged higher & medium interest rates or subjected to stricter terms, as these categories show a significantly higher default rate.
+
+2. Stricter Loan Approval for Employment History    
+ Customers with employment length of 1, 7, or 10 years means experts show a higher likelihood of default. Employment verification and job stability analysis should be prioritized during approval.
+
+3. Defaulters Due for Specific Purposes     
+Applicants seeking loans for "debt consolidation" purposes should be evaluated more carefully, as these purposes are common among defaulters.
+
+4. Home Ownership Analysis    
+Borrowers with "Rent", "Mortgage",home ownership types are more likely to default. "Mortgage" holders appear more reliable and can be treated as lower risk.
+
+5. Verification Status Checks    
+Even borrowers with "Verified" or "Not Verified" status have high default rates. This indicates that verification alone is not sufficient, and other risk indicators should be considered.
+
+6. Term-wise Risk Adjustment    
+Loans with a 36-month term show a higher default rate. Consider applying more Strickly credit checks or insurance for these term loans.
+
+7. Time-Based Lending Strategy for Defaulters     
+Most defaults occurred in 2011, particularly in the months of October,November and December.
+
+8. Bankruptcy Is Not the Only Indicator    
+Most defaulters have “0 bankruptcies”, indicating that relying solely on bankruptcy history to judge credit risk is insufficient.
+
+9. Debt to Income Ratio     
+Most defaulters have “”Medium debt ratio””, indicating that Normal dti ratio get higher defaulters.
+
+10. Most Common Purpose That Find In Defaulters     
+Most defaulters Purpose is “”Debt-Consolidation””, indicating that Be Carefull Before Apply a loan for this Purpose.
+
 **📌 Disclaimer:**
 
 -This EDA project is created purely for learning and practice purposes; hence, I’ve shared only the PDF versions of the Jupyter Notebook and PowerPoint to maintain originality and avoid direct copy-paste.
