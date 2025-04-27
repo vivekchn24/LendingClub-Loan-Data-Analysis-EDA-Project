@@ -37,22 +37,22 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
 
 **-->> 📌 Key Steps Performed In EDA Analysis**
 
-1. ""Data Cleaning""
+1. Data Cleaning
    - Handling missing values
    - Dropping irrelevant or redundant columns
    - Formatting and type conversion
 
-2. ""Univariate Analysis""
+2. Univariate Analysis
    - Distributions of loan amount, interest rates, term, grades
 
-3. ""Bivariate Analysis""
+3. Bivariate Analysis
    - Loan status vs interest rate, loan purpose, etc.
 
-4. ""Multivariate Analysis""
+4. Multivariate Analysis
    - Correlation heatmaps
    - Factors affecting loan defaults
 
-5. ""Insights & Conclusions""
+5. Insights & Conclusions
    - Summarized key findings with visual charts
    - Business recommendations
 
@@ -61,3 +61,4 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
 -This EDA project is created purely for learning and practice purposes; hence, I’ve shared only the PDF versions of the Jupyter Notebook and PowerPoint to maintain originality and avoid direct copy-paste.
 
 -⭐ This EDA project was completed as part of my data analytics training/Journey And the EDA Project Done At Future Vision Computer Institute,Surat.
+<a href="https://futurevisioncomputers.com/">Future Vision Computer Institute</a>
