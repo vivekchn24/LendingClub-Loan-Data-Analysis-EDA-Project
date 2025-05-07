@@ -1,10 +1,10 @@
-**-->> LendingClub-Loan-Data-Analysis-EDA-Project**
+# **-->> LendingClub-Loan-Data-Analysis-EDA-Project**
 
-**-->> LendingClub Loan Data - Exploratory Data Analysis (EDA) Project**
+## **-->> LendingClub Loan Data - Exploratory Data Analysis (EDA) Project**
 
 This project involves a comprehensive Exploratory Data Analysis (EDA) on the LendingClub loan dataset using Python and Jupyter Notebook. The goal is to uncover insights about loan trends, borrower behavior, and key factors affecting loan defaults.
 
-**-->> 📂 Lending-Club-Loan-Data-Analysis-EDA-Project Folder Contains**
+## **-->> 📂 Lending-Club-Loan-Data-Analysis-EDA-Project Folder Contains**
 
 -Data_Dictionary.xlsx File (Explaination And FullForms Of The Columns)
 
@@ -16,20 +16,20 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
 
 -DATA CSV FOLDER CONTAINS ORIGINAL DATASET
 
-**-->> 📁 Dataset**
+## **-->> 📁 Dataset**
 
 - ""Source"": LendingClub public dataset (Downloaded from Kaggle / official source)
 - ""Rows"": Aprrox 37,000+
 - ""Columns"": 100+ (various financial & personal borrower details)
 
-**-->> 📊 Objective**
+## **-->> 📊 Objective**
 
 - Analyze the structure of LendingClub loan data.
 - Identify factors that influence loan status (Fully Paid, Charged Off,Current Status (Ignored In Data-Analysis Cause We Can't Predict Applicants Behaviour)).
 - Perform univariate, bivariate, and multivariate analysis.
 - Derive business Insights/Recomendations that can help in credit risk assessment.
 
-**-->> 🛠️ Tools & Technologies Used**
+## **-->> 🛠️ Tools & Technologies Used**
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
@@ -37,7 +37,7 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
 - Data Visualization
 - Statistical Analysis
 
-**-->> 📌 Key Steps Performed In EDA Analysis**
+## **-->> 📌 Key Steps Performed In EDA Analysis**
 
 1. Data Cleaning
    - Handling missing values
@@ -58,7 +58,7 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
    - Summarized key findings with visual charts
    - Business recommendations
 
-**📌 Recommendations/Insights**
+## **📌 Recommendations/Insights**
 
 1. Risk-Based Interest Adjustment     
 Loans issued to customers with Grade B,C & D (especially sub-grades like B3, B5, C1, etc.) should be charged higher & medium interest rates or subjected to stricter terms, as these categories show a significantly higher default rate.
@@ -90,7 +90,7 @@ Most defaulters have “”Medium debt ratio””, indicating that Normal dti r
 10. Most Common Purpose That Find In Defaulters     
 Most defaulters Purpose is “”Debt-Consolidation””, indicating that Be Carefull Before Apply a loan for this Purpose.
 
-**📌 Disclaimer:**
+## **📌 Disclaimer:**
 
 -This EDA project is created purely for learning and practice purposes; hence, I’ve shared only the PDF versions of the Jupyter Notebook and PowerPoint to maintain originality and avoid direct copy-paste.
 
