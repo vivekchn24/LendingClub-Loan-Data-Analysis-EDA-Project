@@ -58,7 +58,7 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) on the Len
    - Summarized key findings with visual charts
    - Business recommendations
 
-## **📌 Recommendations/Insights**
+## **-->> 📌 Recommendations/Insights**
 
 1. Risk-Based Interest Adjustment     
 Loans issued to customers with Grade B,C & D (especially sub-grades like B3, B5, C1, etc.) should be charged higher & medium interest rates or subjected to stricter terms, as these categories show a significantly higher default rate.
@@ -90,7 +90,7 @@ Most defaulters have “”Medium debt ratio””, indicating that Normal dti r
 10. Most Common Purpose That Find In Defaulters     
 Most defaulters Purpose is “”Debt-Consolidation””, indicating that Be Carefull Before Apply a loan for this Purpose.
 
-## **📌 Disclaimer:**
+## **-->> 📌 Disclaimer:**
 
 -This EDA project is created purely for learning and practice purposes; hence, I’ve shared only the PDF versions of the Jupyter Notebook and PowerPoint to maintain originality and avoid direct copy-paste.
 
